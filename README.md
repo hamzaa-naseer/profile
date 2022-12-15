@@ -1,28 +1,41 @@
 # profile
 
-<h1 align="center">Hi , I'm Awais khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Code Lover <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Embedded+Programmer;Exploits+Developer;Security+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
+<h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. As a remote full-time Full Stack Engineer my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills and fluent in English. I like to collaborate with the team to accomplish goals.
 </h5>
 <br/>
 <h4 align="center">
 If you're still reading me, why don't we connect?</h4>
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 <a href="https://www.instagram.com/awais_khan_officials/">
   <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/awaiskhan404/">
+<a href="https://github.com/DevNinja56/">
   <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-	</div>
+	</div> -->
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
 <!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
+
+<br/>
+<h5>
+
+##  Ask me about
+	
+<h3>Frontend:</h3> HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, TypeScript, Next.js, Vanilla.js, GraphQL, Storybook, Vue.js, Vuetify, Nuxt, Angular, Material UI, Tailwind CSS, D3.js<br>
+<h3>Backend:</h3>  Express, TypeScript, Node.js, Nest.js, PHP Laravel, CI, GraphQL, Firebase. <br>
+<h3>Database:</h3>  MongoDB, DynamoDB, SQL, NoSQL, Postgres, MySQL, Firebase. <br>
+<h3>Ecommerce:</h3>  Magento2. <br>
+<h3>DevOps:</h3>  AWS, Amplify, Elastic Beanstalk, EC2, Lambda, S3, RDS, DynamoDB, Cognito, GCP, Azure, DO, CI/CD, Docker, Kubernetes, Terraform <br> </h5>
+	
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiskhan404&theme=algolia" alt="Awaiskhan404"  /></p>
@@ -40,15 +53,15 @@ If you're still reading me, why don't we connect?</h4>
 
 
 <br/>
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
 <div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div>
 
-## ⚡ GitHub Activity Graph:
+<!-- ## ⚡ GitHub Activity Graph:
   <br/>
    <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 ## Technologies
 
