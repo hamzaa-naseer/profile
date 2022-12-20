@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Code Lover <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Embedded+Programmer;Exploits+Developer;Security+Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+engineer;Backend+engineer;DevOps++enginee;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. As a remote full-time Full Stack Engineer my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills and fluent in English. I like to collaborate with the team to accomplish goals.
@@ -39,6 +39,8 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
    <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+	<br>
+	<br>
    <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
    <img align="center" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
    <img align="center" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -84,6 +86,8 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center"alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center"alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
     <img align="center"alt="DO" src="https://img.shields.io/badge/DO-%23E0234E.svg?style=for-the-badge&logo=DO&logoColor=white" /> 
+	<br>
+	<br>
     <img align="center"alt="CI/CD" src="https://img.shields.io/badge/CI/CD-316192?style=for-the-badge&logo=CI/CD&logoColor=white" />  
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center"alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />   
@@ -137,6 +141,8 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+	<br>
+	<br>
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
     <img align="center"alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
@@ -146,6 +152,8 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center"alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
     <img align="center"alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+	<br>
+	<br>
     <img align="center"alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center"alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     <img align="center"alt="JSON" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />  
