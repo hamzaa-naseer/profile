@@ -33,7 +33,7 @@ If you're still reading me, why don't we connect?</h4>
 
 <h2 >  Ask me about </h2>
 	<div align="center">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="420" width="300" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" />
 	
 <h3>Frontend:</h3><div style="display: inline-block">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -76,7 +76,7 @@ If you're still reading me, why don't we connect?</h4>
 	<img align="center"alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 	
 </div> 
-<h3>Ecommerce:</h3> <div style="display: inline-block" align="justify">
+<h3>Ecommerce:</h3> <div style="display: inline-block" >
     <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />       
 </div> 
 <h3>DevOps:</h3>  <div style="display: inline-block">
