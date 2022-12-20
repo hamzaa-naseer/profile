@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Code Lover <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+engineer;Backend+engineer;DevOps++engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;Devops++Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. As a remote full-time Full Stack Engineer my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills and fluent in English. I like to collaborate with the team to accomplish goals.
@@ -25,9 +25,15 @@ If you're still reading me, why don't we connect?</h4>
 <!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
 
 <br/>
+
+
+
+
 <h5>
 
 <h2 >  Ask me about </h2>
+	<div align="center">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="420" width="300" />
 	
 <h3>Frontend:</h3><div style="display: inline-block">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -70,8 +76,8 @@ If you're still reading me, why don't we connect?</h4>
 	<img align="center"alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 	
 </div> 
-<h3>Ecommerce:</h3> <div style="display: inline-block">
-    <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />        
+<h3>Ecommerce:</h3> <div style="display: inline-block" align="justify">
+    <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />       
 </div> 
 <h3>DevOps:</h3>  <div style="display: inline-block">
     <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -94,7 +100,8 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center"alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
 	
 	 
-</div>  </h5><br>
+</div>  </h5>
+
 	
 
 
